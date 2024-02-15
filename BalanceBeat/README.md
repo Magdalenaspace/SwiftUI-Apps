@@ -1,4 +1,4 @@
-![balance](https://github.com/Magdalenaspace/SwiftUI-Apps/assets/96504344/46310084-7ca9-41c5-8cb7-172819488f7f)# BalanceBeat
+# BalanceBeat
 
 BalanceBeat is a Swift UI animated application designed to provide users with a pleasurable experience through animated gestures. By leveraging `AppStorage`, BalanceBeat provides a smooth and uninterrupted user experience, enhancing user satisfaction and engagement. It engages with the user by offering options to start their day with one thing that will elevate their routine.
 
