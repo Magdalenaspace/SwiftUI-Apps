@@ -1,0 +1,1 @@
+![Uploading StratMotivate.png…]()
